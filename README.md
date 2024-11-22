@@ -1,6 +1,6 @@
-#Instituto Federal de Mato Grosso do Sul
-#Atividade de Linguagem de Programação 4
-#Objetivo: Construir um Servidor REST Api para simular um sistema backend para garagem de veículos. Onde o sistema deverá conter as seguintes características.
+# Instituto Federal de Mato Grosso do Sul
+# Atividade de Linguagem de Programação 4
+# Objetivo: Construir um Servidor REST Api para simular um sistema backend para garagem de veículos. Onde o sistema deverá conter as seguintes características.
 
 - Deverá conter 2 grupos de rotas, uma para os veículos e outro para os clientes.
 
@@ -10,4 +10,4 @@
 
 - O código deverá ser organizado de acordo com as boas práticas de programação (pastas com nomenclatura padrão, indentação, comentários, etc.).
 
-#Grupo: Héctor Portes e Leonardo Garcia
+# Grupo: Héctor Portes e Leonardo Garcia
